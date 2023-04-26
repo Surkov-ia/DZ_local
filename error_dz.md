@@ -5,11 +5,12 @@
 пример: 
 * ~~error_error_error~~
 > text
-* _error_error
+* _error_error_
 > text
 * 
 > text
-* _error_error
+*
+__error_error___
 > text
 * _error_error
 > text
